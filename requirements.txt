@@ -2,3 +2,5 @@ pandas
 numpy
 ipykernel
 requests
+langchain
+matplotlib
